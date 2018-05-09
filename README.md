@@ -57,4 +57,4 @@ To start a docker container running this project, execute:
 docker build -t sample-java-project
 docker run sample-java-project <NAME>
 ```
-Replace <NAME> with your name.
+Replace `<NAME>` with your name.
